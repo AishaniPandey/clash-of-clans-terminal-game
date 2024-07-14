@@ -1,6 +1,4 @@
-# Assignment 3.1
-
-- Everything mentioned in the assignment has been implemented(Except bonus).
+#How to Play?
 
 - To run the game : `python3 game.py`
 - To view replays : `python3 replay.py`  and select the replay you want to watch according to mentioned date and time.
